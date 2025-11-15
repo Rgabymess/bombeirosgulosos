@@ -1,6 +1,9 @@
 /*
- * Grupo: AI Assistant (simulado)
+ * Grupo: Bombeiros Gulosos
  * Integrantes: Gabriel Franco da Rosa Messora - RA: 10438405
+ * Integrantes: João Francisco - RA:10443666
+ * Integrantes: Felipe Hideki Rodrigues Shinozaki - RA: 10438584
+ * Integrantes: Jonas Fernando Nascimento de Melo - RA:10443398 
  * 
  * Link do vídeo do YouTube: 
  * 
