@@ -5,7 +5,7 @@
  * Integrantes: Felipe Hideki Rodrigues Shinozaki - RA: 10438584
  * Integrantes: Jonas Fernando Nascimento de Melo - RA:10443398 
  * 
- * Link do vídeo do YouTube: 
+ * Link do vídeo do YouTube: https://www.youtube.com/watch?v=0SkJhX7E9nM
  * 
  * Referências:
  * - Algoritmo de Dijkstra baseado no enunciado do projeto.
